@@ -11,7 +11,7 @@ token = '5227798658:AAGN8pyCKBkefFfy4I8dtDEXxeuNiJzlspM'      # More: https://co
 mysql_host = 'localhost'
 mysql_db   = 'gvpnxpress_TelegramSupportBot'
 mysql_user = 'gvpnxpress_SupportBotUser'
-mysql_pw   = 'JORGE123#123#'
+mysql_pw   = 'Jorge123#123#'
 
 # Support Chat (Chat ID)
 support_chat =                  # Example: -1001429781350 | To find out your channels ID use: https://t.me/getidsbot
